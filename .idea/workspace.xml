@@ -1,15 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d064f11-7cea-440f-9a25-5737fef3a5c6" name="Changes" comment="" />
+    <list default="true" id="6d064f11-7cea-440f-9a25-5737fef3a5c6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Atividade 9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qst 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qst 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qst 5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qst 6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qst 7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qst 8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/questao 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/questao 2.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Jguilhermefs"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/beatrizmaax/ATIVIDADE-.git",
+    "accountId": "bf8b44f0-f243-4e4e-895d-1c7cd5296049"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
@@ -21,8 +58,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.qst 3.executor": "Run",
+    "Python.qst 4.executor": "Run",
+    "Python.qst 5.executor": "Run",
+    "Python.qst 6.executor": "Run",
+    "Python.qst 7.executor": "Run",
+    "Python.qst 8.executor": "Run",
+    "Python.questao 1.executor": "Run",
+    "Python.questao 2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
